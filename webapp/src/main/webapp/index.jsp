@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to DevOps Project !!   </h1>
 <h2> Deploying on a kubernetes using ansible </h2>
-<h2> Hello Ansible running from Docker Container</h2>
+<h2> Hello running from Docker Container</h2>
